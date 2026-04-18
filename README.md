@@ -1,4 +1,34 @@
 # 💫 Hi, I'm Tanishpreet Kaur
-**Data Scientist | Machine Learning & AI Enthusiast | Building Intelligent Systems & Automation Solutions**
+**Data Scientist | Machine Learning & AI Enthusiast**
 
-About Me<br><br>I’m currently working on:  <br>- Data analysis & visualization projects using Python, Power BI, and Tableau  <br>- Machine learning models for classification, regression, and NLP tasks  <br>- Building interactive dashboards and automation scripts  <br><br> I’m looking to collaborate on:<br>- Open-source ML/AI & data analytics projects  <br>- NLP, computer vision, and data storytelling initiatives  <br><br> I’m looking for help with: <br>- Optimizing deep learning models (TensorFlow, Keras)  <br>- Large-scale data pipeline design and deployment  <br><br> I’m currently learning:  <br>- Cloud data tools (Azure, BigQuery)  <br>- Advanced ML algorithms & model interpretability  <br><br>🛠 Tech Stack  <br>Languages: Python, SQL, C, C++, MATLAB  <br>Libraries & Frameworks: Pandas, NumPy, Scikit-learn, PyCaret, Matplotlib, Seaborn, NLTK, spaCy, OpenCV, XGBoost, Flask, Streamlit  <br>Tools: Power BI, Tableau, Excel, JupyterLab, Git  <br>
+##  About Me  
+I’m passionate about building **AI-driven and data-centric solutions** that transform raw data into impactful insights and intelligent systems.
+
+- Building **ML/DL models** for classification, regression, and NLP tasks    
+- Exploring **Generative AI, LLMs & prompt engineering**  
+
+## Open to Collaborate On  
+- Open-source **AI/ML & Data Science projects**  
+- **Generative AI, NLP & Computer Vision applications**  
+- Data storytelling & real-world analytics projects  
+
+## Currently Learning  
+- Cloud tools (Azure, BigQuery)  
+- Advanced ML (feature engineering, interpretability, ensembles)  
+- GenAI system design & LLM applications  
+
+## 🛠 Tech Stack  
+
+**Languages:**  
+`Python` `SQL` `C` `C++` `MATLAB`  
+
+**ML/DL & AI:**  
+`Scikit-learn` `TensorFlow` `Keras` `XGBoost`   
+
+**Data Analysis & Visualization:**  
+`Pandas` `NumPy` `Matplotlib` `Seaborn` `Power BI`   
+
+**Development & Tools:**  
+`Flask` `Streamlit` `Git` `JupyterLab`  
+
+*Always open to learning, collaborating, and building impactful AI solutions!*
