@@ -17,7 +17,7 @@ I’m passionate about building **AI-driven and data-centric solutions** that tr
 - Advanced ML (feature engineering, interpretability, ensembles)  
 - GenAI system design & LLM applications  
 
-## 🛠 Tech Stack  
+## Tech Stack  
 
 **Languages:**  
 `Python` `SQL` `C` `C++` `MATLAB`  
