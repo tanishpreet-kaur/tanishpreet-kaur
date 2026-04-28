@@ -26,9 +26,9 @@ I’m passionate about building **AI-driven and data-centric solutions** that tr
 `Scikit-learn` `TensorFlow` `Keras` `XGBoost` `LangChain` `LangGraph` `LLMs (Prompt Engineering, RAG, Agents)`
 
 **Data Analysis & Visualization:**  
-`Pandas` `NumPy` `Matplotlib` `Seaborn` `LangSmith` `REST APIs` `Debugging & Evaluation of LLM Apps`   
+`Pandas` `NumPy` `Matplotlib` `Seaborn`    
 
 **Development & Tools:**  
-`Flask` `Streamlit` `Git` `JupyterLab`  
+`Flask` `Streamlit` `Git` `JupyterLab` `LangSmith` `REST APIs` 
 
 *Always open to learning, collaborating, and building impactful AI solutions!*
