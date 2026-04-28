@@ -23,10 +23,10 @@ I’m passionate about building **AI-driven and data-centric solutions** that tr
 `Python` `SQL` `C` `C++` `MATLAB`  
 
 **ML/DL & AI:**  
-`Scikit-learn` `TensorFlow` `Keras` `XGBoost`   
+`Scikit-learn` `TensorFlow` `Keras` `XGBoost` `LangChain` `LangGraph` `LLMs (Prompt Engineering, RAG, Agents)`
 
 **Data Analysis & Visualization:**  
-`Pandas` `NumPy` `Matplotlib` `Seaborn` `Power BI`   
+`Pandas` `NumPy` `Matplotlib` `Seaborn` `LangSmith` `REST APIs` `Debugging & Evaluation of LLM Apps`   
 
 **Development & Tools:**  
 `Flask` `Streamlit` `Git` `JupyterLab`  
